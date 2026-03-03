@@ -22,7 +22,8 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 
 🚀 **Stock Tools** — Plataforma de estoque com IA → [stocktools.cloud](https://stocktools.cloud)
 💼 **LeadFlow** — CRM inteligente de geração de leads 
-📍 **São José dos Campos, SP — Brasil**
+
+📍**São José dos Campos, SP — Brasil**
 
 <br/>
 
