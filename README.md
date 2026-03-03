@@ -1,16 +1,18 @@
+<!-- BANNER TOPO - aparece imediatamente ao abrir o perfil -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2563EB,100:1e3a8a&height=200&section=header&text=Luiz%20Henrique&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20APIs%20%7C%20Automações%20%7C%20Dashboards&descAlignY=58&descSize=18&animation=fadeIn" />
+
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Luiz+Henrique+%F0%9F%91%8B;Desenvolvedor+Backend+%26+Automa%C3%A7%C3%B5es;APIs+%7C+ETL+%7C+Dashboards;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
+<!-- Typing animado -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Transformando+dados+em+soluções+🚀;Tiny+ERP+%7C+Supabase+%7C+Google+Sheets;React+%7C+Node.js+%7C+Python+%7C+Docker;Bem-vindo+ao+meu+perfil!+👋" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges de perfil -->
 <a href="https://github.com/luizaopy">
-  <img src="https://komarev.com/ghpvc/?username=luizaopy&label=Visualizações+do+perfil&color=2563EB&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=luizaopy&label=Visualizações&color=2563EB&style=flat-square" />
 </a>
 <img src="https://img.shields.io/github/followers/luizaopy?label=Seguidores&style=flat-square&color=2563EB" />
-<img src="https://img.shields.io/badge/Foco-Backend%20%26%20Automações-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Disponível-2563EB?style=flat-square&logo=statuspage&logoColor=white" />
 
 </div>
 
@@ -18,10 +20,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor focado em **automações**, **integrações de APIs** e **sistemas de dados**. Trabalho construindo pipelines ETL, dashboards executivos e plataformas web que conectam ERPs, bancos de dados e serviços externos.
+Desenvolvedor focado em **automações**, **integrações de APIs** e **sistemas de dados**. Construo pipelines ETL, dashboards executivos e plataformas web que conectam ERPs, bancos de dados e serviços externos.
 
 - 🏢 Trabalhando na **Tork Tools**
-- 🚀 Desenvolvendo o **StokTools** — plataforma de gestão de estoque com IA
+- 🚀 Criador do **StokTools** — plataforma de gestão de estoque com IA em [stocktools.cloud](https://stocktools.cloud)
 - 🔗 Integrações com **Tiny ERP**, **Supabase**, **Google Sheets** e **Slack**
 - 🤖 Apaixonado por automações que eliminam trabalho manual
 - 📍 Vale do Paraíba, SP — Brasil
@@ -29,6 +31,8 @@ Desenvolvedor focado em **automações**, **integrações de APIs** e **sistemas
 ---
 
 ## 🛠️ Stack Tecnológica
+
+<div align="center">
 
 **Backend & Automação**
 
@@ -59,6 +63,8 @@ Desenvolvedor focado em **automações**, **integrações de APIs** e **sistemas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -68,10 +74,8 @@ Desenvolvedor focado em **automações**, **integrações de APIs** e **sistemas
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizaopy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaopy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&text_color=c9d1d9&langs_count=8" />
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luizaopy&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563EB&ring=2563EB&fire=FF6B35&currStreakLabel=2563EB" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizaopy&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563EB&ring=2563EB&fire=FF6B35&currStreakLabel=2563EB" />
 </div>
 
 ---
@@ -108,8 +112,5 @@ Desenvolvedor focado em **automações**, **integrações de APIs** e **sistemas
   </picture>
 </div>
 
----
-
-<div align="center">
-  <sub>💙 Feito com dedicação por <strong>Luiz Henrique</strong> · <a href="https://stocktools.cloud">stocktools.cloud</a></sub>
-</div>
+<!-- BANNER RODAPÉ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563EB,100:0f0c29&height=120&section=footer" />
