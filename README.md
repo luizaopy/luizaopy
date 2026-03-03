@@ -16,13 +16,11 @@
 
 ## 🙋 Sobre Mim
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=luizaopy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" />
-
 Desenvolvedor especializado em **automação**, **integração de sistemas** e **dados**. Construo soluções que conectam ERPs, bancos de dados e APIs, eliminando processos manuais e entregando visibilidade em tempo real.
 
 🚀 **Stock Tools** — Plataforma de estoque com IA → [stocktools.cloud](https://stocktools.cloud)
 
-💼 **LeadFlow** — CRM inteligente de geração de leads 
+💼 **LeadFlow** — CRM inteligente de geração de leads
 
 📍 **São José dos Campos, SP — Brasil**
 
@@ -32,8 +30,6 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 ![TypeScript](https://img.shields.io/badge/TypeScript-Avan%C3%A7ado-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![APIs REST](https://img.shields.io/badge/APIs_REST-Integra%C3%A7%C3%B5es-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-Dados-FF6B35?style=flat-square)
-
-<br clear="right"/>
 
 ---
 
@@ -140,10 +136,16 @@ Serviço systemd que monitora recebimentos no Tiny ERP, atualiza custos e envia 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luizaopy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaopy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&text_color=c9d1d9&langs_count=8" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizaopy&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizaopy&theme=tokyonight" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=luizaopy&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563EB&ring=2563EB&fire=FF6B35&currStreakLabel=2563EB&sideLabels=c9d1d9&dates=c9d1d9" />
+
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizaopy&theme=tokyonight" />
 
 </div>
 
