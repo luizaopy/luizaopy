@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a8a,100:2563EB&height=220&section=header&text=Luiz%20Henrique&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20APIs%20%7C%20Automações%20%7C%20Sistemas%20de%20Dados&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a8a,100:2563EB&height=220&section=header&text=Luiz%20Henrique&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20APIs%20%7C%20Automa%C3%A7%C3%B5es%20%7C%20Sistemas%20de%20Dados&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=🚀+Automações+que+eliminam+trabalho+manual;🔗+Tiny+ERP+%7C+Qive+%7C+Supabase+%7C+Google+Sheets;📊+Pipelines+ETL+%26+Dashboards+executivos;💙+Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Automa%C3%A7%C3%B5es+que+eliminam+trabalho+manual;Tiny+ERP+%7C+Qive+%7C+Supabase+%7C+Google+Sheets;Pipelines+ETL+%26+Dashboards+executivos;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=luizaopy&label=Visualizações&color=2563EB&style=for-the-badge)](https://github.com/luizaopy)
+[![Profile Views](https://komarev.com/ghpvc/?username=luizaopy&label=Visualiza%C3%A7%C3%B5es&color=2563EB&style=for-the-badge)](https://github.com/luizaopy)
 [![GitHub Followers](https://img.shields.io/github/followers/luizaopy?style=for-the-badge&color=2563EB&logo=github&label=Seguidores)](https://github.com/luizaopy?tab=followers)
-[![StockTools](https://img.shields.io/badge/🚀_StockTools-Live-2563EB?style=for-the-badge)](https://stocktools.cloud)
+[![StockTools](https://img.shields.io/badge/StockTools-Live-2563EB?style=for-the-badge)](https://stocktools.cloud)
 
 </div>
 
@@ -24,13 +24,13 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 
 💼 **LeadFlow** — CRM inteligente de geração de leads 
 
-📍**São José dos Campos, SP — Brasil**
+📍 **São José dos Campos, SP — Brasil**
 
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Avançado-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs_REST-Integrações-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Avan%C3%A7ado-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-Integra%C3%A7%C3%B5es-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-Dados-FF6B35?style=flat-square)
 
 <br clear="right"/>
@@ -49,7 +49,7 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 
 <br/>
 
-![Tiny ERP](https://img.shields.io/badge/Tiny_ERP-Integração-FF6B00?style=for-the-badge&logoColor=white)
+![Tiny ERP](https://img.shields.io/badge/Tiny_ERP-Integra%C3%A7%C3%A3o-FF6B00?style=for-the-badge&logoColor=white)
 ![Qive](https://img.shields.io/badge/Qive-NF--e_ETL-6366F1?style=for-the-badge&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-Sync-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-Alertas-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -81,7 +81,7 @@ Integrada ao Tiny ERP com alertas automáticos, chat com IA, kanban de pedidos, 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Ver Repo](https://img.shields.io/badge/Ver_Repositório-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/Stock-Tools)
+[![Ver Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/StokTools)
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +96,7 @@ SaaS moderno para captação e gestão de leads com dashboard analítico, autent
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-[![Ver Repo](https://img.shields.io/badge/Ver_Repositório-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/LeadFlow)
+[![Ver Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/LeadFlow)
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ Dashboard Streamlit + Plotly para análise de NF-e e custos, com sincronização
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Ver Repo](https://img.shields.io/badge/Ver_Repositório-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/custo_tiny)
+[![Ver Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/custo_tiny)
 
 </td>
 <td width="50%" valign="top">
@@ -126,7 +126,7 @@ Serviço systemd que monitora recebimentos no Tiny ERP, atualiza custos e envia 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
-[![Ver Repo](https://img.shields.io/badge/Ver_Repositório-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/Automacao_recebimento)
+[![Ver Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/Automacao_recebimento)
 
 </td>
 </tr>
@@ -143,7 +143,7 @@ Serviço systemd que monitora recebimentos no Tiny ERP, atualiza custos e envia 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=luizaopy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaopy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&text_color=c9d1d9&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luizaopy&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563EB&ring=2563EB&fire=FF6B35&currStreakLabel=2563EB&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=luizaopy&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563EB&ring=2563EB&fire=FF6B35&currStreakLabel=2563EB&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
@@ -167,4 +167,4 @@ Serviço systemd que monitora recebimentos no Tiny ERP, atualiza custos e envia 
   </picture>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,60:1e3a8a,100:0d1117&height=130&section=footer&text=Vamos+construir+algo+incrível?&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,60:1e3a8a,100:0d1117&height=130&section=footer&text=Vamos+construir+algo+incrivel%3F&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
