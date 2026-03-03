@@ -33,7 +33,7 @@ Desenvolvedor com foco em **automação**, **integração de sistemas** e **dado
 **🏢 Tork Tools** — Desenvolvendo ferramentas de gestão
 **🚀 StockTools** — Plataforma de estoque com IA → [stocktools.cloud](https://stocktools.cloud)
 **⚡ LeadFlow** — CRM inteligente de geração de leads
-**📍 Vale do Paraíba, SP — Brasil**
+**📍 São José dos Campos, SP — Brasil**
 
 <br/>
 
