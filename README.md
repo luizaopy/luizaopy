@@ -24,7 +24,7 @@ Desenvolvedor focado em **automações**, **integrações de APIs** e **sistemas
 - 🚀 Desenvolvendo o **StokTools** — plataforma de gestão de estoque com IA
 - 🔗 Integrações com **Tiny ERP**, **Supabase**, **Google Sheets** e **Slack**
 - 🤖 Apaixonado por automações que eliminam trabalho manual
-- 📍 Vale do Paraíba, SP — Brasil
+- 📍 São José dos Campos, SP — Brasil
 
 ---
 
