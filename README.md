@@ -21,9 +21,9 @@
 Desenvolvedor especializado em **automação**, **integração de sistemas** e **dados**. Construo soluções que conectam ERPs, bancos de dados e APIs, eliminando processos manuais e entregando visibilidade em tempo real.
 
 🏢 **Tork Tools** — Ferramentas de gestão industrial
-🚀 **StockTools** — Plataforma de estoque com IA → [stocktools.cloud](https://stocktools.cloud)
+🚀 **Stock Tools** — Plataforma de estoque com IA → [stocktools.cloud](https://stocktools.cloud)
 💼 **LeadFlow** — CRM inteligente de geração de leads
-📍 **Vale do Paraíba, SP — Brasil**
+📍 **São José dos Campos, SP — Brasil**
 
 <br/>
 
