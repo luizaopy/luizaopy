@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Luiz+Henrique+%F0%9F%91%8B;Desenvolvedor+Backend+%26+Automações;APIs+%7C+ETL+%7C+Dashboards;Transformando+dados+em+soluções" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Luiz+Henrique+%F0%9F%91%8B;Desenvolvedor+Backend+%26+Automa%C3%A7%C3%B5es;APIs+%7C+ETL+%7C+Dashboards;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +24,7 @@ Desenvolvedor focado em **automações**, **integrações de APIs** e **sistemas
 - 🚀 Desenvolvendo o **StokTools** — plataforma de gestão de estoque com IA
 - 🔗 Integrações com **Tiny ERP**, **Supabase**, **Google Sheets** e **Slack**
 - 🤖 Apaixonado por automações que eliminam trabalho manual
-- 📍 São José dos Campos, SP — Brasil
+- 📍 Vale do Paraíba, SP — Brasil
 
 ---
 
@@ -94,6 +94,18 @@ Desenvolvedor focado em **automações**, **integrações de APIs** e **sistemas
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizaopy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2563EB&line=2563EB&point=FFFFFF&area=true&area_color=2563EB" />
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizaopy/luizaopy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizaopy/luizaopy/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/luizaopy/luizaopy/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
