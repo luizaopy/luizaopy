@@ -33,7 +33,7 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 
 ---
 
-## 🛠️ Stack Completa 
+## 🛠️ Stack Completa
 
 <div align="center">
 
