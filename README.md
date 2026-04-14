@@ -14,7 +14,7 @@
 
 ---
 
-## 🙋 Sobre Mim
+## 🙋 Sobre Mim 
 
 Desenvolvedor especializado em **automação**, **integração de sistemas** e **dados**. Construo soluções que conectam ERPs, bancos de dados e APIs, eliminando processos manuais e entregando visibilidade em tempo real.
 
