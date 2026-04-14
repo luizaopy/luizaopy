@@ -57,7 +57,7 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque 
 
 <div align="center">
 
