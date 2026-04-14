@@ -52,7 +52,7 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 ![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboards-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-IA-412991?style=for-the-badge&logo=openai&logoColor=white)
-
+ 
 </div>
 
 ---
