@@ -64,7 +64,7 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 <table>
 <tr>
 <td width="50%" valign="top">
-
+ 
 ### 📦 Stock Tools
 **Plataforma de Gestão de Estoque com IA**
 
