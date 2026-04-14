@@ -115,7 +115,7 @@ Dashboard Streamlit + Plotly para análise de NF-e e custos, com sincronização
 
 ### 🤖 Automação de Recebimento
 **FastAPI + Tiny ERP + Slack**
-
+ 
 Serviço systemd que monitora recebimentos no Tiny ERP, atualiza custos e envia alertas automáticos no Slack.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
