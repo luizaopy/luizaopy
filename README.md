@@ -138,7 +138,7 @@ Serviço systemd que monitora recebimentos no Tiny ERP, atualiza custos e envia 
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizaopy&theme=tokyonight" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizaopy&theme=tokyonight" />
-
+ 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=luizaopy&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563EB&ring=2563EB&fire=FF6B35&currStreakLabel=2563EB&sideLabels=c9d1d9&dates=c9d1d9" />
