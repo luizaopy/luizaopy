@@ -82,7 +82,7 @@ Integrada ao Tiny ERP com alertas automáticos, chat com IA, kanban de pedidos, 
 </td>
 <td width="50%" valign="top">
 
-### 💼 LeadFlow
+### 💼 LeadFlow 
 **CRM Inteligente de Geração de Leads**
 
 SaaS moderno para captação e gestão de leads com dashboard analítico, autenticação de usuários e gráficos interativos.
