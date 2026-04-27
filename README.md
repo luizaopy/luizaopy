@@ -112,7 +112,7 @@ Dashboard Streamlit + Plotly para análise de NF-e e custos, com sincronização
 
 </td>
 <td width="50%" valign="top">
-
+ 
 ### 🤖 Automação de Recebimento
 **FastAPI + Tiny ERP + Slack**
  
