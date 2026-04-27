@@ -101,7 +101,7 @@ SaaS moderno para captação e gestão de leads com dashboard analítico, autent
 
 ### 📊 custo_tiny
 **Monitor de Custos & Notas Fiscais**
-
+ 
 Dashboard Streamlit + Plotly para análise de NF-e e custos, com sincronização Supabase e Docker.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
