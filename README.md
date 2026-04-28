@@ -86,7 +86,7 @@ Integrada ao Tiny ERP com alertas automáticos, chat com IA, kanban de pedidos, 
 **CRM Inteligente de Geração de Leads**
 
 SaaS moderno para captação e gestão de leads com dashboard analítico, autenticação de usuários e gráficos interativos.
-
+ 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
