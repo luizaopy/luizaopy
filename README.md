@@ -11,7 +11,7 @@
 [![StockTools](https://img.shields.io/badge/StockTools-Live-2563EB?style=for-the-badge)](https://stocktools.cloud)
 
 </div>
- 
+
 ---
 
 ## 🙋 Sobre Mim
