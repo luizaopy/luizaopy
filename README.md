@@ -44,7 +44,7 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 <img src="https://skillicons.dev/icons?i=supabase,postgres,docker,nginx,git,linux&perline=6" />
 
 <br/>
-
+ 
 ![Tiny ERP](https://img.shields.io/badge/Tiny_ERP-Integra%C3%A7%C3%A3o-FF6B00?style=for-the-badge&logoColor=white)
 ![Qive](https://img.shields.io/badge/Qive-NF--e_ETL-6366F1?style=for-the-badge&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-Sync-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
