@@ -158,7 +158,7 @@ Serviço systemd que monitora recebimentos no Tiny ERP, atualiza custos e envia 
 </div>
  
 ---
-
+ 
 ## 🐍 Contribuições
 
 <div align="center">
