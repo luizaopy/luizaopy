@@ -127,7 +127,7 @@ Serviço systemd que monitora recebimentos no Tiny ERP, atualiza custos e envia 
 </td>
 </tr>
 </table>
- 
+
 </div>
  
 ---
