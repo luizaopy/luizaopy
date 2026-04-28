@@ -123,7 +123,7 @@ Serviço systemd que monitora recebimentos no Tiny ERP, atualiza custos e envia 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 [![Ver Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/Automacao_recebimento)
-
+ 
 </td>
 </tr>
 </table>
