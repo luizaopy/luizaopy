@@ -54,7 +54,7 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 ![OpenAI](https://img.shields.io/badge/OpenAI-IA-412991?style=for-the-badge&logo=openai&logoColor=white)
  
 </div>
-
+ 
 ---
  
 ## 🚀 Projetos em Destaque
