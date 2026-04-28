@@ -98,7 +98,7 @@ SaaS moderno para captação e gestão de leads com dashboard analítico, autent
 </tr>
 <tr>
 <td width="50%" valign="top">
- 
+
 ### 📊 custo_tiny
 **Monitor de Custos & Notas Fiscais**
  
