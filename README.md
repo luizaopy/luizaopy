@@ -9,7 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=luizaopy&label=Visualiza%C3%A7%C3%B5es&color=2563EB&style=for-the-badge)](https://github.com/luizaopy)
 [![GitHub Followers](https://img.shields.io/github/followers/luizaopy?style=for-the-badge&color=2563EB&logo=github&label=Seguidores)](https://github.com/luizaopy?tab=followers)
 [![StockTools](https://img.shields.io/badge/StockTools-Live-2563EB?style=for-the-badge)](https://stocktools.cloud)
-
+ 
 </div>
 
 ---
