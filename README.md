@@ -93,7 +93,7 @@ SaaS moderno para captação e gestão de leads com dashboard analítico, autent
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 [![Ver Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/LeadFlow)
- 
+
 </td>
 </tr>
 <tr>
