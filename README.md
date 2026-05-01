@@ -78,7 +78,7 @@ Integrada ao Tiny ERP com alertas automáticos, chat com IA, kanban de pedidos, 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 [![Ver Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/StokTools)
-
+ 
 </td>
 <td width="50%" valign="top">
  
