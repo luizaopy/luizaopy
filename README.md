@@ -32,7 +32,7 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-Dados-FF6B35?style=flat-square)
 
 ---
-
+ 
 ## 🛠️ Stack Completa
 
 <div align="center">
