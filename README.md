@@ -25,7 +25,7 @@ Desenvolvedor especializado em **automação**, **integração de sistemas** e *
 📍 **São José dos Campos, SP — Brasil**
 
 <br/>
- 
+
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Avan%C3%A7ado-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![APIs REST](https://img.shields.io/badge/APIs_REST-Integra%C3%A7%C3%B5es-009688?style=flat-square&logo=fastapi&logoColor=white)
