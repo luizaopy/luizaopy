@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Automa%C3%A7%C3%B5es+que+eliminam+trabalho+manual;Tiny+ERP+%7C+Qive+%7C+Supabase+%7C+Google+Sheets;Pipelines+ETL+%26+Dashboards+executivos;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
  
 <br/>
- 
+
 [![Profile Views](https://komarev.com/ghpvc/?username=luizaopy&label=Visualiza%C3%A7%C3%B5es&color=2563EB&style=for-the-badge)](https://github.com/luizaopy)
 [![GitHub Followers](https://img.shields.io/github/followers/luizaopy?style=for-the-badge&color=2563EB&logo=github&label=Seguidores)](https://github.com/luizaopy?tab=followers)
 [![StockTools](https://img.shields.io/badge/StockTools-Live-2563EB?style=for-the-badge)](https://stocktools.cloud)
