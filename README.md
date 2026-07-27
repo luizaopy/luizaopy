@@ -1,172 +1,92 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a8a,100:2563EB&height=220&section=header&text=Luiz%20Henrique&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20APIs%20%7C%20Automa%C3%A7%C3%B5es%20%7C%20Sistemas%20de%20Dados&descAlignY=58&descSize=18&animation=fadeIn" />
+# Luiz Henrique
 
-<div align="center">
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Automa%C3%A7%C3%B5es+que+eliminam+trabalho+manual;Tiny+ERP+%7C+Qive+%7C+Supabase+%7C+Google+Sheets;Pipelines+ETL+%26+Dashboards+executivos;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+Desenvolvedor Backend focado em construção de APIs, integrações entre sistemas, automação de processos e pipelines de dados.
 
-<br/>
+Atuo no desenvolvimento de soluções confiáveis e escaláveis, transformando regras de negócio em serviços bem estruturados, observáveis e fáceis de manter.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=luizaopy&label=Visualiza%C3%A7%C3%B5es&color=2563EB&style=for-the-badge)](https://github.com/luizaopy)
-[![GitHub Followers](https://img.shields.io/github/followers/luizaopy?style=for-the-badge&color=2563EB&logo=github&label=Seguidores)](https://github.com/luizaopy?tab=followers)
-[![StockTools](https://img.shields.io/badge/StockTools-Live-2563EB?style=for-the-badge)](https://stocktools.cloud)
+## Especialidades
 
-</div>
+- Desenvolvimento de APIs REST com Python, FastAPI, Node.js e TypeScript
+- Integração com ERPs, plataformas SaaS, bancos de dados e serviços de terceiros
+- Autenticação, autorização e controle de acesso
+- Processamento assíncrono, webhooks e rotinas agendadas
+- Automação de processos operacionais e fluxos de negócio
+- Extração, transformação e carga de dados
+- Sincronização e consistência de dados entre diferentes sistemas
+- Tratamento de erros, retentativas e idempotência
+- Documentação e versionamento de APIs
+- Monitoramento, logs e diagnóstico de aplicações
 
----
+## Backend
 
-## 🙋 Sobre Mim
+Desenvolvo serviços priorizando separação de responsabilidades, legibilidade e facilidade de evolução. Minha abordagem inclui:
 
-Desenvolvedor especializado em **automação**, **integração de sistemas** e **dados**. Construo soluções que conectam ERPs, bancos de dados e APIs, eliminando processos manuais e entregando visibilidade em tempo real.
+- Arquitetura em camadas e organização modular
+- Validação de entrada e saída de dados
+- Regras de negócio desacopladas da infraestrutura
+- Paginação, filtros e ordenação de recursos
+- Controle de concorrência e transações
+- Cache e otimização de consultas
+- Testes unitários e de integração
+- Configuração segura por variáveis de ambiente
 
-🚀 **Stock Tools** — Plataforma de estoque com IA → [stocktools.cloud](https://stocktools.cloud)
+## APIs e Integrações
 
-💼 **LeadFlow** — CRM inteligente de geração de leads
+Trabalho com integrações robustas entre serviços, considerando não apenas o envio de requisições, mas todo o ciclo de comunicação:
 
-📍 **São José dos Campos, SP — Brasil**
+- APIs REST e comunicação baseada em JSON
+- Consumo e exposição de webhooks
+- OAuth 2.0, tokens JWT e chaves de API
+- Rate limits, timeouts e políticas de retentativa
+- Idempotência e prevenção de processamento duplicado
+- Mapeamento e normalização de dados
+- Versionamento e compatibilidade de contratos
+- Filas e processamento assíncrono
+- Registro de eventos e rastreabilidade
 
-<br/>
- 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Avan%C3%A7ado-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs_REST-Integra%C3%A7%C3%B5es-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-Dados-FF6B35?style=flat-square)
+## Dados e Persistência
 
----
+- PostgreSQL e Supabase
+- Modelagem relacional e normalização
+- Consultas SQL e otimização de índices
+- Migrações e evolução de schema
+- Pandas para transformação e análise de dados
+- Pipelines ETL e sincronização incremental
+- Validação, limpeza e reconciliação de dados
+- Importação e exportação de arquivos estruturados
 
-## 🛠️ Stack Completa
+## Infraestrutura e Operação
 
-<div align="center">
+- Docker e conteinerização de aplicações
+- Linux e gerenciamento de serviços
+- Nginx como proxy reverso
+- Git e fluxos de versionamento
+- Configuração de ambientes de desenvolvimento e produção
+- Logs estruturados e monitoramento de falhas
+- Health checks e diagnóstico de serviços
+- Boas práticas de segurança e gestão de segredos
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,fastapi,express&perline=6" />
+## Tecnologias
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&perline=6" />
+### Linguagens
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,docker,nginx,git,linux&perline=6" />
+Python, TypeScript, JavaScript e SQL.
 
-<br/>
- 
-![Tiny ERP](https://img.shields.io/badge/Tiny_ERP-Integra%C3%A7%C3%A3o-FF6B00?style=for-the-badge&logoColor=white)
-![Qive](https://img.shields.io/badge/Qive-NF--e_ETL-6366F1?style=for-the-badge&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-Sync-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-Alertas-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboards-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-IA-412991?style=for-the-badge&logo=openai&logoColor=white)
- 
-</div>
- 
----
- 
-## 🚀 Projetos em Destaque
+### Frameworks e ferramentas
 
-<div align="center">
+FastAPI, Node.js, Express, Pandas, PostgreSQL, Supabase, Docker, Nginx, Git e Linux.
 
-<table>
-<tr>
-<td width="50%" valign="top">
- 
-### 📦 Stock Tools
-**Plataforma de Gestão de Estoque com IA**
+### Conceitos
 
-🌐 [stocktools.cloud](https://stocktools.cloud)
+APIs REST, webhooks, autenticação, autorização, ETL, filas, tarefas agendadas, testes automatizados, observabilidade, arquitetura modular e integração contínua.
 
-Integrada ao Tiny ERP com alertas automáticos, chat com IA, kanban de pedidos, radar de produtos e notificações via Slack.
+## Princípios de desenvolvimento
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-[![Ver Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/StokTools)
-
-</td>
-<td width="50%" valign="top">
- 
-### 💼 LeadFlow 
-**CRM Inteligente de Geração de Leads**
-
-SaaS moderno para captação e gestão de leads com dashboard analítico, autenticação de usuários e gráficos interativos.
- 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-[![Ver Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/LeadFlow)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
- 
-### 📊 custo_tiny
-**Monitor de Custos & Notas Fiscais**
- 
-Dashboard Streamlit + Plotly para análise de NF-e e custos, com sincronização Supabase e Docker.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-[![Ver Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/custo_tiny)
- 
-</td>
-<td width="50%" valign="top">
- 
-### 🤖 Automação de Recebimento
-**FastAPI + Tiny ERP + Slack**
- 
-Serviço systemd que monitora recebimentos no Tiny ERP, atualiza custos e envia alertas automáticos no Slack.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-
-[![Ver Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaopy/Automacao_recebimento)
- 
-</td>
-</tr>
-</table>
-
-</div>
- 
----
-
-##  GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizaopy&theme=tokyonight" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizaopy&theme=tokyonight" />
-
-<br/>
- 
-<img src="https://streak-stats.demolab.com/?user=luizaopy&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563EB&ring=2563EB&fire=FF6B35&currStreakLabel=2563EB&sideLabels=c9d1d9&dates=c9d1d9" />
-
-<br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizaopy&theme=tokyonight" />
-
-</div>
- 
----
-  
-## 📈 Atividade
- 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luizaopy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2563EB&line=2563EB&point=FFFFFF&area=true&area_color=1e3a8a" />
-</div>
- 
----
- 
-## 🐍 Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizaopy/luizaopy/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizaopy/luizaopy/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/luizaopy/luizaopy/output/github-snake.svg" />
-  </picture>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,60:1e3a8a,100:0d1117&height=130&section=footer&text=Vamos+construir+algo+incrivel%3F&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+- Código simples, legível e bem organizado
+- Contratos de API claros e previsíveis
+- Segurança desde o início do desenvolvimento
+- Automação de tarefas repetitivas
+- Tratamento explícito de falhas
+- Observabilidade para facilitar suporte e manutenção
+- Decisões técnicas alinhadas às necessidades do negócio
+- Documentação objetiva e atualizada
