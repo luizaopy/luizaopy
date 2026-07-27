@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor **Backend**, especializado em **TypeScript**, **Python** e **Node.js**.
+Sou desenvolvedor **Backend**, especializado em **Python** e **Node.js**.
 
 Desenvolvo APIs, integrações e serviços orientados às necessidades do negócio, com atenção à arquitetura, segurança, desempenho e facilidade de manutenção. Gosto de transformar processos complexos em soluções simples, confiáveis e bem documentadas.
 
