@@ -1,4 +1,4 @@
-<img width="100%" src="./luizhenrique.py.png" alt="Luiz Henrique - Backend Developer" />
+<img width="100%" src="./luizhenrique.py.png.png" alt="Luiz Henrique - Backend Developer" />
 
 <br/>
 
