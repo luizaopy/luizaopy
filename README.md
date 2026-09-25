@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=3B82F6&center=true&vCenter=true&width=760&lines=Backend+Developer+%7C+Python;APIs%2C+integra%C3%A7%C3%B5es+e+automa%C3%A7%C3%B5es;Evoluindo+em+DevOps%2C+Cloud+e+SRE" alt="Apresentação animada" />
 
 <br/>
-
+ 
 ![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
